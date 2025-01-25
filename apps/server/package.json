@@ -1,0 +1,9 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "bin/rails server -p 3001",
+    "typegen": "rake typegen"
+  }
+}
