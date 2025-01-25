@@ -3,7 +3,7 @@
 Say goodbye to Rails frontend drama.  
 This monorepo template is designed for building a full-stack application using **Ruby on Rails**, **TypeScript**, **React**, **Next.js**, **Shadcn**, and **Tailwind CSS**.
 
-![Login Page](_login.png)
+![Login Page](_login.jpg)
 
 ---
 
