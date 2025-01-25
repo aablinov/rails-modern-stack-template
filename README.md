@@ -3,7 +3,7 @@
 Say goodbye to Rails frontend drama.  
 This monorepo template is designed for building a full-stack application using **Ruby on Rails**, **TypeScript**, **React**, **Next.js**, **Shadcn**, and **Tailwind CSS**.
 
-![Login Page](README/login.png)
+![Login Page](_login.png)
 
 ---
 
@@ -119,7 +119,7 @@ Generate types by running:
 pnpm run typegen
 ```
 
-![Typegen](README/typegen.png)
+![Typegen](_typegen.png)
 
 ## Links & mentions
 - Pretty much inspired by [campsite](https://github.com/campsite/campsite)
