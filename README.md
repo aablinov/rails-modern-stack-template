@@ -24,6 +24,20 @@ This monorepo template is designed for building a full-stack application using *
 
 ---
 
+## Architecture
+
+```
+rails-modern-stack-template
+├── apps                   - All applications are contained within here
+│   ├── server             - Rails API
+│   └── web                - NextJS frontend
+├── packages               - Internal packages to share code within your monorepo
+│   └── eslint-config      - Linters
+│   └── servers            - Generated types and API client from backend
+│   └── typescript-config  - Shareable Typescript configs
+│   └── ui                 - Shadcn components
+```
+
 ## 🚧 Getting Started
 
 ### Install Dependencies
