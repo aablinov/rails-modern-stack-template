@@ -5,6 +5,13 @@ This monorepo template is designed for building a full-stack application using *
 
 ![Login Page](_login.jpg)
 
+
+## Video preview
+
+https://github.com/user-attachments/assets/7a258124-871d-4810-8f9a-447dfa9f4233
+
+
+
 ---
 
 ## Features
